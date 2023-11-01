@@ -97,8 +97,8 @@ body {
 }
 .text-box {
     padding: 30px 30px;
-    background: lightgrey;
     position: relative;
+    background-color: lightgray;
     border-radius: 6px;
     font-size: 15px;
     box-shadow: 4px 4px 16px black;
