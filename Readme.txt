@@ -1,1 +1,1 @@
-Hello I am Sweshik Reddy - 2310080053. Please run the index.html file to run the website from login page.
+Please run the index.html file to run the website from login page.
